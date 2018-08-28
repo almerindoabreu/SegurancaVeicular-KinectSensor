@@ -1,0 +1,9 @@
+﻿  main.cpp
+main.cpp(387): warning C4101: 'fim': unreferenced local variable
+  Generating code
+  172 of 9530 functions ( 1.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    108 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ProjetoTCC.vcxproj -> C:\Users\almer\OneDrive\Documents\Visual Studio 2015\Projects\ProjetoTCC\x64\Release\ProjetoTCC.exe
+  ProjetoTCC.vcxproj -> C:\Users\almer\OneDrive\Documents\Visual Studio 2015\Projects\ProjetoTCC\x64\Release\ProjetoTCC.pdb (Full PDB)

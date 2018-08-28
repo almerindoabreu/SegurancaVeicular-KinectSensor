@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\almer\onedrive\documents\visual studio 2015\projects\projetotcc\projetotcc\main.cpp(49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  ProjetoTCC.vcxproj -> C:\Users\almer\OneDrive\Documents\Visual Studio 2015\Projects\ProjetoTCC\x64\Debug\ProjetoTCC.exe
+  ProjetoTCC.vcxproj -> C:\Users\almer\OneDrive\Documents\Visual Studio 2015\Projects\ProjetoTCC\x64\Debug\ProjetoTCC.pdb (Partial PDB)
