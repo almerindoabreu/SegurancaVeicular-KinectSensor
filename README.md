@@ -27,7 +27,7 @@ Para executar a instalação do OpenCV, deve ser realizada o download do **[CMak
 
 O **MinGW** (**Min**imalist **G**NU for **W**indows) é uma versão portada  "Portabilidade (informática)") para Microsoft Windows  "Microsoft Windows") do [conjunto de ferramentas GNU "Conjunto de ferramentas GNU"). Este software inclui um conjunto de arquivos cabeçalho para a API "API") do Windows que permite aos desenvolvedores usar o GCC para criar programas nativos em Windows sem precisar contar com uma emulação em tempo real de um sistema Unix-like. É como se fosse um compilador.
 
-1.  Utilizando o CMake
+
     
 
 Utiliza-se o CMake para gerenciar a compilação dos tatos files da biblioteca OpenCV e Dlib.
